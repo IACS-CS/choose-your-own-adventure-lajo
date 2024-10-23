@@ -8,19 +8,21 @@ body {
 }
 
 p,ul {
-  font-size: 20pt;
+  font-size: 20px;
   font-family:  Special Elite ; 
   font-weight: normal ;
   color: white
 }
 h1 {
-  font-size: 80pt;
+  font-size: 80px;
   font-weight: normal;
   color: brown;
   font-family: Creepster;
 }
 img {
   width: 550px;
+  margin-top: 50px;
+  border-radius: .5in;
 }
 
 a {
